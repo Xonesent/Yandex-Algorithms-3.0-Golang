@@ -1,0 +1,13 @@
+typical repository structure
+
+|
+|- Materials - images of the results
+|- Session 0 Revision (1-10) - solutions session 0
+|- Session 1 (11-15) - solutions session 1
+|- Session 2 (16-20) - solutions session 2
+|- Session 3 (21-25) - solutions session 3
+|- Session 4 (26-30) - solutions session 4
+|- Session 5 (31-35) - solutions session 5
+|- Session 6 (36-40) - solutions session 6
+|-- README_ENG.MD - impressions and thoughts in English
+|-- README.md - impressions and thoughts
